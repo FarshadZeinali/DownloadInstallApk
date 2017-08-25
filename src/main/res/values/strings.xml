@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DownloadInstallApk</string>
+    <string name="notification_title">
+        Downloading.....
+    </string>
+    <string name="notification_text">
+        Updating your application.....
+    </string>
+</resources>
